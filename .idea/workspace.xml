@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4b99de9-e556-4edb-8859-da8d054afdd3" name="Changes" comment="Getting started guide" />
+    <list default="true" id="e4b99de9-e556-4edb-8859-da8d054afdd3" name="Changes" comment="spring-batch-documentation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +24,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -33,7 +45,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/getting-started-guide" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -60,14 +72,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "android.gradle.sync.needed": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.25862068",
     "vue.rearranger.settings.migration": "true"
@@ -154,6 +166,7 @@
       <workItem from="1717328886074" duration="417000" />
       <workItem from="1717329308904" duration="56000" />
       <workItem from="1717329369030" duration="691000" />
+      <workItem from="1717330064319" duration="2884000" />
     </task>
     <task id="LOCAL-00001" summary="의존성 추가">
       <option name="closed" value="true" />
@@ -187,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716980368246</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="spring-batch-documentation">
+      <option name="closed" value="true" />
+      <created>1717333477149</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717333477149</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +218,7 @@
     <MESSAGE value="의존성 추가" />
     <MESSAGE value="two minute tutorial" />
     <MESSAGE value="Getting started guide" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getting started guide" />
+    <MESSAGE value="spring-batch-documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring-batch-documentation" />
   </component>
 </project>
